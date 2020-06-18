@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title: BOOK RECOMMENDATION & SEARCH
 ---
-
+$$ y = mx + n $$
 
 ```python
 # import packages
