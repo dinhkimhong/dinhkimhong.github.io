@@ -1,4 +1,7 @@
-## BOOK RECOMMENDATION & SEARCH
+---
+layout: post
+title: BOOK RECOMMENDATION & SEARCH
+---
 
 
 ```python
